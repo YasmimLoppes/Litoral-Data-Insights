@@ -57,4 +57,4 @@ Projetos de curso geralmente usam dados já limpos, organizados e prontos você 
 
 ---
 
-**Feito por Yasmim Loppes** | São Vicente/SP
+**Desenvolvido por Yasmim Loppes**

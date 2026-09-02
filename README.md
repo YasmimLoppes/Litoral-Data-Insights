@@ -20,7 +20,7 @@ Este projeto é um pipeline completo que **coleta, limpa, cruza e visualiza** da
 4. **Visualização** → Painel interativo no Power BI com mapas, gráficos e filtros
 
 ## Objetivo
-Dar aos pequenos e médios empresários da Baixada Santista uma ferramenta simples e acessível para entender onde estão seus clientes, quais setores crescem e onde existem oportunidades de negócio — sem precisar ser especialista em dados.
+Dar aos pequenos e médios empresários da Baixada Santista uma ferramenta simples e acessível para entender onde estão seus clientes, quais setores crescem e onde existem oportunidades de negócio sem precisar ser especialista em dados.
 
 ## Dados Utilizados
 - Renda média por bairro

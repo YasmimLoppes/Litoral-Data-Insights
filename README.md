@@ -6,11 +6,11 @@
 
 ##  Por que eu criei esse projeto?
 
-Moro em São Vicente e vejo isso todo dia: donos de pequenos negócios padarias, lojas, salões, pousadas tomam decisões importantes sem ter as informações certas. Alguém abre uma loja pensando que ali tem público, mas não tem; investe num produto que a região não consome; escolhe um bairro sem saber quanto as pessoas ganham, quantas moram ali, ou quais setores já existem. Tudo no "achômetro".
+Moro em São Vicente e vejo isso todo dia donos de pequenos negócios padarias, lojas, salões, pousadas tomam decisões importantes sem ter as informações certas. Alguém abre uma loja pensando que ali tem público, mas não tem; investe num produto que a região não consome; escolhe um bairro sem saber quanto as pessoas ganham, quantas moram ali, ou quais setores já existem. Tudo no "achômetro".
 
 Os dados não faltam o IBGE, o SEADE, as prefeituras e o Ministério do Trabalho têm tudo isso disponível. O problema é que estão espalhados em dezenas de sites, em formatos diferentes, com nomes de bairros escritos de formas diferentes, valores faltantes e sem nenhuma organização. Para uma pessoa que não trabalha com dados, é praticamente impossível juntar tudo e entender.
 
-Foi aí que pensei: e se eu pegasse todos esses dados, limpasse, organizasse e apresentasse de um jeito que qualquer pessoa consiga usar? Não para fazer gráficos bonitos, mas para responder perguntas reais: "Vale a pena abrir minha loja aqui?", "Meus clientes potenciais têm qual renda?", "Qual setor tem pouca concorrência mas muita demanda?". Esse é o objetivo do projeto.
+Foi aí que pensei e se eu pegasse todos esses dados, limpasse, organizasse e apresentasse de um jeito que qualquer pessoa consiga usar? Não para fazer gráficos bonitos, mas para responder perguntas reais: "Vale a pena abrir minha loja aqui?", "Meus clientes potenciais têm qual renda?", "Qual setor tem pouca concorrência mas muita demanda?". Esse é o objetivo do projeto.
 
 ---
 

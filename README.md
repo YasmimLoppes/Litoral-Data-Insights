@@ -25,18 +25,18 @@ Foi aí que pensei e se eu pegasse todos esses dados, limpasse, organizasse e ap
 
 ---
 
-##  Como foi construído — passo a passo
+##  Como foi construído  passo a passo
 
-### 1. Extração dos dados — de onde vem tudo?
+### 1. Extração dos dados de onde vem tudo?
 Primeiro preciso buscar a informação bruta. Não inventei nenhum número tudo vem de fontes oficiais e públicas: IBGE, SEADE, RAIS/MTE e prefeituras municipais. Cada fonte entrega os dados num formato diferente um é CSV, outro é JSON, outro é página de site. O código lê cada um, extrai o que importa e junta tudo numa mesma estrutura unificada. É como se cada fonte falasse um idioma diferente e eu criasse um tradutor que deixa todo mundo falando a mesma língua.
 
-### 2. Limpeza e padronização — por que essa etapa é a mais importante?
+### 2. Limpeza e padronização por que essa etapa é a mais importante?
 Dados públicos quase nunca vêm prontos para usar. É muito comum encontrar o mesmo lugar escrito de 3 formas diferentes, células vazias, números com separadores inconsistentes e informações duplicadas. Nessa etapa eu corrijo tudo: padronizo nomes, trato valores faltantes sem inventar informação, removo duplicatas e confiro se os números fazem sentido. Se eu pular essa etapa, todo o resto vai estar errado "lixo entra, lixo sai", como se diz na área de dados. Por isso essa é a parte que mais toma tempo e mais atenção.
 
-### 3. Cruzamento e análise — o que os dados dizem quando estão juntos?
+### 3. Cruzamento e análise o que os dados dizem quando estão juntos?
 Aqui é onde a informação ganha sentido. Separadamente, saber a renda de uma cidade ou quantas lojas existem não diz muita coisa. Mas quando eu cruzo essas informações renda média × quantidade de empresas × população eu descubro coisas que ninguém vê olhando os dados separados: quais bairros têm renda acima da média mas pouca oferta de comércio, quais cidades têm população crescente mas poucos serviços, onde existe demanda potencial que ainda não foi atendida. Sem cruzar os dados, esses padrões ficam escondidos. Com o cruzamento, aparecem claramente.
 
-### 4. Visualização — transformar números em entendimento
+### 4. Visualização transformar números em entendimento
 De que adianta ter dados limpos e cruzados se só quem sabe programar consegue ler? A última etapa é construir um painel no Power BI onde qualquer pessoa mesmo quem nunca trabalhou com dados consegue clicar numa cidade, ver renda, população e principais setores, filtrar por tipo de negócio e comparar entre cidades. O objetivo final não é o dado em si é a decisão que alguém toma por causa dele.
 
 ---

@@ -1,4 +1,4 @@
-#  Litoral Data Insights — Painel de Dados Econômicos da Baixada Santista
+#  Litoral Data Insights  Painel de Dados Econômicos da Baixada Santista
 
 > Transformando dados públicos em inteligência prática para pequenos negócios da região onde moro
 
